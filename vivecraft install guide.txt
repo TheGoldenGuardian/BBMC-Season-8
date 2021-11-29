@@ -1,0 +1,8 @@
+Run the executable (make sure your MC launcher is closed)
+Check "Install Vivecraft with Forge" and "Custom Version"
+In "Custom Version" put 36.2.9
+Under RAM allocation do like 8 gigs or something idfk
+Nothing else matters it's all up to you
+
+(You have to do this or you can't see VR player animations)
+NOTE: ViveCraft comes with OptiFine by default.
